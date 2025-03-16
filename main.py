@@ -19,8 +19,8 @@ banner = f"""
                                  {Fore.BLUE}Developers: | Death (tester zip){Fore.MAGENTA}
         
 """
-token = "MTM0NTA1NTA0MTMwMzg3NTY4Ng.GEX8rp.peSrYEucYaK8H14hCho00l61ZfW99hPGMpYMM0"
-#MTM0NTA1NTA0MTMwMzg3NTY4Ng.GEX8rp.peSrYEucYaK8H14hCho00l61ZfW99hPGMpYMM0
+
+
 print(banner)
 TOKEN = input("Enter your Discord token: ").strip()
 status_options = ["online", "idle", "dnd", "invisible"]
